@@ -1,0 +1,37 @@
+body{
+text-align: center
+}
+.TBL{
+height:300px;
+border-radius: 5100px;
+}
+#welocome{
+background:#e6b8e3;
+}
+#stuff{
+background:#b3dee6;
+}
+h1,h2,h3{
+font-family:cursive;
+}
+p{
+font-size: 20px;
+text-align: center;
+width: 400px;
+padding-left: 580px;
+}
+.menu{
+list-style: none;
+font-family: sans-serif;
+position: absolute;
+top: 10px;
+z-index: 10px;
+cursor: pointer;
+font-size: 20px;
+}
+.link{
+font-family: cursive;
+}
+.link:hover{
+background-color: forestgreen;
+}
